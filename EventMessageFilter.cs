@@ -1,9 +1,10 @@
-﻿using System.Linq;
+using System.Linq;
 using System.Threading.Tasks;
 using IntelSecurity.MessagingAPI.Core.Model;
 using IntelSecurity.MessagingAPI.Infrastructure.Extensions;
 //testnew
 //newbranchtry
+//new commit from Mac Pro
 namespace IntelSecurity.MessagingAPI.Infrastructure.Filters
 {
     public class EventMessageFilter : MessageFilter
